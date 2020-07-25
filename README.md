@@ -7,7 +7,7 @@ I Have some ideas to ease candidates such as me:
        is controlling most of google results on API's,
        It was hard for me to find a free API which 
        does not require my credit card.
-       Beside that the search for one took was a long time.
+       Beside that the search for such took a long time.
 
     2. You mentioned in the assignment that style is not required,
        that's awesome! but right after that you wrote that
